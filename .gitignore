@@ -1,0 +1,17 @@
+# Public publishing boundary.
+#
+# This repository should only expose the public article surface:
+# - README.md
+# - articles/**
+# - images/**
+#
+# Everything else in the production workspace remains local/private.
+
+*
+
+!.gitignore
+!README.md
+!articles/
+!articles/**
+!images/
+!images/**
