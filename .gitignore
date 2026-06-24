@@ -15,6 +15,9 @@
 !robots.txt
 !sitemap.xml
 !_config.yml
+!_layouts/
+!_layouts/**
+!llms.txt
 !articles/
 !articles/**
 !images/

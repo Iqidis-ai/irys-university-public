@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://iqidis-ai.github.io/irys-university-public/</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://iqidis-ai.github.io/irys-university-public/articles/why-prompt-as-memory-fails.html</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/why-prompt-as-memory-fails.png</image:loc>
+      <image:title>Why Prompt-As-Memory Fails In Legal AI</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://iqidis-ai.github.io/irys-university-public/articles/auditability-is-the-product.html</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/auditability-is-the-product.png</image:loc>
+      <image:title>Auditability Is The Product In Legal AI</image:title>
+    </image:image>
   </url>
 </urlset>

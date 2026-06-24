@@ -4,14 +4,11 @@ url: "https://iqidis-ai.github.io"
 baseurl: "/irys-university-public"
 lang: en-US
 timezone: America/New_York
+logo: /images/auditability-is-the-product.png
 
 author:
   name: Irys
   url: https://www.irys.ai/
-
-twitter:
-  username:
-  card: summary_large_image
 
 social:
   name: Irys
@@ -21,13 +18,13 @@ social:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 defaults:
   - scope:
       path: ""
       type: pages
     values:
+      layout: default
       image: /images/auditability-is-the-product.png
 
 exclude:

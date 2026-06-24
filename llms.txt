@@ -1,0 +1,20 @@
+# Irys University
+
+Irys University is a public research and education library from Irys on legal AI, matter memory, auditability, legal work product, and AI-native legal workflows.
+
+## Site
+
+- Home: https://iqidis-ai.github.io/irys-university-public/
+- Website: https://www.irys.ai/
+- LinkedIn: https://www.linkedin.com/company/irys-legal-ai
+
+## Articles
+
+- Why Prompt-As-Memory Fails In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/why-prompt-as-memory-fails.html
+  - Focus: legal AI memory, matter context, prompt summaries, contract review, redlines, source-backed work product.
+- Auditability Is The Product In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/auditability-is-the-product.html
+  - Focus: legal AI auditability, traceable research memos, authority limitations, reviewable support records, matter-level work product.
+
+## Boundary
+
+This public site contains only published Irys University articles and article images. Production scripts, prompts, source documents, render assets, and internal review materials are not part of the public corpus.

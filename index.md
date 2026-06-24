@@ -6,18 +6,16 @@ permalink: /
 
 # Irys University
 
-Irys University is a public research and education library from the team behind Irys, the AI-native legal workspace for research, drafting, redlining, matters, document intelligence, and collaboration.
-
-We write about legal AI from the system level: matter memory, auditability, adoption, legal operations, knowledge management, pricing, governance, and the engineering decisions that determine whether AI becomes real infrastructure for lawyers or stays a demo.
+Legal AI has to become usable work product inside real matters. These essays look at the hard parts: what should survive a handoff, what a reviewer must be able to inspect, and what kind of matter record makes later work safer instead of merely faster.
 
 ## Start Reading
 
-- [Why Prompt-As-Memory Fails](articles/why-prompt-as-memory-fails.md)
-- [Auditability Is The Product](articles/auditability-is-the-product.md)
+- [Why Prompt-As-Memory Fails](articles/why-prompt-as-memory-fails.html)
+- [Auditability Is The Product](articles/auditability-is-the-product.html)
 
 ## About Irys
 
-Irys is built by lawyers for legal professionals. It is designed around how legal work is actually organized: matters, documents, research, drafts, review, collaboration, and institutional knowledge. The platform keeps work in one shared context so legal teams do not restart from zero every time they ask a question, draft a clause, compare a document, or revisit a matter.
+Irys is where we build against the same question: can AI carry legal work forward without forcing the team to reconstruct context every time?
 
 ## Links
 
