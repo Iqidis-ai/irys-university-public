@@ -1,43 +1,54 @@
 # Irys University
 
-Irys University is a public research and education library about programmable data, AI infrastructure, agent workflows, and the systems-level problems that appear when data has to be stored, verified, executed, reused, and trusted.
+Irys University is a public research and education library from the team behind Irys, the legal AI platform built for how lawyers get complex work done.
 
-Irys is the programmable datachain: a data layer that brings storage, execution, and verification into one environment. The core idea is simple but deep: data should not be passive. It should be available, verifiable, and usable by applications, smart contracts, AI systems, and agent workflows.
+Irys brings research, drafting, redlining, matters, document intelligence, and collaboration into one AI-native legal workspace. The product thesis is simple: legal AI should not be a chatbot sitting beside the work. It should understand the matter, preserve context, produce usable work product, and give legal teams the confidence to rely on the system in real workflows.
 
-This repository shares how we think about that market.
+This repository shares how we think about legal AI, reasoning systems, matter memory, auditability, workflow adoption, and the future structure of the legal technology market.
 
 ## What This Is
 
-This is a public article library for developers, researchers, founders, investors, and technical operators who want to understand the future of data infrastructure.
+This is a public article library for attorneys, legal operations teams, law firm innovation leaders, knowledge management teams, in-house legal teams, and legal technology buyers who want to understand where legal AI is going.
 
 The essays here cover questions like:
 
-- Why does AI need better data infrastructure?
-- Why do agent workflows fail when memory is just text?
-- What changes when data is programmable instead of passive?
-- Why does auditability matter in production AI systems?
-- How should developers think about storage, execution, verification, and reuse?
-- What market structure appears when data can carry logic, provenance, and economic rights?
+- Why do legal AI systems fail when they treat memory as prompt text?
+- Why does matter context matter more than a generic chat history?
+- Why is auditability an architecture decision, not a feature checkbox?
+- What changes when legal work becomes stateful across research, drafting, review, and collaboration?
+- Why do real deployments depend on adoption, legal operations, knowledge management, risk, and billing, not just lawyer enthusiasm?
+- Where does durable value sit as model capability becomes more commoditized?
 
-The goal is not to publish generic commentary. The goal is to make our thesis legible: what we believe, what we are watching, where the market is breaking, and why Irys exists.
+The goal is not to publish generic AI commentary. The goal is to make our thesis legible: what we believe, what we are watching, where the market is breaking, and why Irys exists.
 
 ## Who It Is For
 
-This library is for:
+This library is primarily for:
 
-- developers building AI-native applications;
-- founders working on agent infrastructure, data products, or onchain applications;
-- investors studying programmable data, AI infrastructure, and data markets;
-- researchers thinking about memory, provenance, verification, and coordination;
-- teams evaluating how to make AI outputs auditable and reusable.
+- attorneys evaluating legal AI beyond demos;
+- law firm innovation, knowledge management, and legal operations teams;
+- in-house legal teams studying AI adoption and governance;
+
+It is also useful for developers, founders, investors, and researchers studying the legal AI market, but the center of gravity is the legal team deciding whether AI can become reliable work product.
 
 ## About Irys
 
-Irys is built for systems that rely on data.
+Irys is built by lawyers for legal professionals.
 
-Modern applications increasingly need data that can be stored, verified, retrieved, composed, and acted on. AI makes this harder because agent systems generate, transform, summarize, route, and reuse enormous amounts of information. If that information loses provenance, structure, or availability, the system becomes harder to trust.
+Irys One brings legal research, drafting, redlining, matters, document analysis, comparison, institutional knowledge, and a Word add-in into one shared workspace. The product is matter-centric: documents, chats, tasks, generated work product, and review state live around the matter instead of being scattered across standalone tools.
 
-Irys addresses this by treating data as a first-class programmable object. That means data can become more than stored bytes. It can become part of an executable, verifiable, and composable system.
+The platform is designed for real legal work:
+
+- persistent matter context across sessions;
+- research and answers backed by authority;
+- drafting and revision inside the workflow;
+- document comparison with legal context;
+- library and institutional knowledge that can be reused;
+- audit trails for privileged work;
+- zero data retention by model providers;
+- team workspaces and role-based controls.
+
+The deeper thesis is that legal AI cannot stop at generating text. It has to preserve the work behind the text.
 
 ## Start Reading
 
@@ -49,4 +60,4 @@ Irys addresses this by treating data as a first-class programmable object. That 
 - Website: https://www.irys.ai/
 - Irys partner page: https://www.irys.ai/partners
 - Book a Demo: https://www.irys.ai/partners/demo
-- API: https://www.irys.ai/irys-api
+- LinkedIn: https://www.linkedin.com/company/irys-legal-ai
