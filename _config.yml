@@ -1,0 +1,41 @@
+title: Irys University
+description: Public research and education on legal AI, matter memory, auditability, and AI-native legal work from Irys.
+url: "https://iqidis-ai.github.io"
+baseurl: "/irys-university-public"
+lang: en-US
+timezone: America/New_York
+
+author:
+  name: Irys
+  url: https://www.irys.ai/
+
+twitter:
+  username:
+  card: summary_large_image
+
+social:
+  name: Irys
+  links:
+    - https://www.irys.ai/
+    - https://www.linkedin.com/company/irys-legal-ai
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image: /images/auditability-is-the-product.png
+
+exclude:
+  - assets
+  - docs
+  - knowledge_sources
+  - models
+  - outputs
+  - scripts
+  - templates
+  - tools

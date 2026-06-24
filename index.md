@@ -1,3 +1,9 @@
+---
+title: "Irys University"
+description: "Research and education on legal AI, matter memory, auditability, legal work product, and AI-native legal workflows from Irys."
+permalink: /
+---
+
 # Irys University
 
 Irys University is a public research and education library from the team behind Irys, the AI-native legal workspace for research, drafting, redlining, matters, document intelligence, and collaboration.

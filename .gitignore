@@ -12,6 +12,9 @@
 !.gitignore
 !README.md
 !index.md
+!robots.txt
+!sitemap.xml
+!_config.yml
 !articles/
 !articles/**
 !images/
