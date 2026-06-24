@@ -176,7 +176,7 @@ That requires more than citations at the bottom of a paragraph. It requires a wo
 
 The correction history matters. A system that only stores the latest answer cannot explain why the answer changed. A system that keeps the correction can show that the first answer was overbroad, the reviewer attached a limiting authority, and the later draft inherited the narrowed claim.
 
-That changes the job of review. The lawyer is not just editing prose. The lawyer is changing the state the next legal task will use.
+That changes the job of review. The lawyer is changing the state the next legal task will use.
 
 ## Where Irys Fits
 

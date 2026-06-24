@@ -28,4 +28,54 @@
       <image:title>Auditability Is The Product In Legal AI</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/prompt-instructions-are-not-control.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/auditability-is-the-product.png</image:loc>
+      <image:title>Prompt Instructions Are Not Control In Legal AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/legal-ai-exception-leak.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/why-prompt-as-memory-fails.png</image:loc>
+      <image:title>The Exception Leak In Legal AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/citations-are-not-audit-trails.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/auditability-is-the-product.png</image:loc>
+      <image:title>A Citation Is Not An Audit Trail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/matter-memory-preserve-contradictions.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/why-prompt-as-memory-fails.png</image:loc>
+      <image:title>Matter Memory Must Preserve Contradictions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/rerunning-is-not-repair.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/auditability-is-the-product.png</image:loc>
+      <image:title>Rerunning Is Not Repair In Legal AI</image:title>
+    </image:image>
+  </url>
 </urlset>

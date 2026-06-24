@@ -27,6 +27,11 @@ Irys is where we build against this thesis: legal AI cannot stop at generating t
 
 - [Why Prompt-As-Memory Fails](articles/why-prompt-as-memory-fails.html)
 - [Auditability Is The Product](articles/auditability-is-the-product.html)
+- [Prompt Instructions Are Not Control](articles/prompt-instructions-are-not-control.html)
+- [The Exception Leak In Legal AI](articles/legal-ai-exception-leak.html)
+- [A Citation Is Not An Audit Trail](articles/citations-are-not-audit-trails.html)
+- [Matter Memory Must Preserve Contradictions](articles/matter-memory-preserve-contradictions.html)
+- [Rerunning Is Not Repair In Legal AI](articles/rerunning-is-not-repair.html)
 
 ## Links
 

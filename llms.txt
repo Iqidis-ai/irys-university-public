@@ -14,6 +14,16 @@ Irys University is a public research and education library from Irys on legal AI
   - Focus: legal AI memory, matter context, prompt summaries, contract review, redlines, source-backed work product.
 - Auditability Is The Product In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/auditability-is-the-product.html
   - Focus: legal AI auditability, traceable research memos, authority limitations, reviewable support records, matter-level work product.
+- Prompt Instructions Are Not Control In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/prompt-instructions-are-not-control.html
+  - Focus: prompt instructions, matter-level controls, source links, caveats, blockers, and legal review state.
+- The Exception Leak In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/legal-ai-exception-leak.html
+  - Focus: legal AI failure modes, caveats, contract carve-outs, matter memory, and source-backed blockers.
+- A Citation Is Not An Audit Trail: https://iqidis-ai.github.io/irys-university-public/articles/citations-are-not-audit-trails.html
+  - Focus: citations, audit trails, source support, confidence, review status, and repairable legal AI workflows.
+- Matter Memory Must Preserve Contradictions: https://iqidis-ai.github.io/irys-university-public/articles/matter-memory-preserve-contradictions.html
+  - Focus: matter memory, contradictions, caveats, unresolved issues, and legal AI state.
+- Rerunning Is Not Repair In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/rerunning-is-not-repair.html
+  - Focus: legal AI repair, localized workflow fixes, auditability, and reusable reviewed state.
 
 ## Boundary
 

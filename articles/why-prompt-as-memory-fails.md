@@ -112,7 +112,7 @@ A chat history is a record of what was said. A matter needs a record of what rem
 
 ## The Hard Part Is Reuse
 
-The better design is not just to store more text. It is to decide what a later task is allowed to reuse.
+The better design stores the right objects and decides what a later task is allowed to reuse.
 
 This reuse decision is the hard system problem inside legal AI memory.
 
@@ -188,7 +188,7 @@ Prompt memory fails when the workflow asks prose to behave like infrastructure.
 
 A prompt can carry text. It can't reliably protect the objects that must survive compression unless the system gives those objects structure.
 
-For serious legal AI workflows, memory is not just more context. Memory is the preservation of the right matter state across research, drafting, redlining, comparison, review, and reuse.
+For serious legal AI workflows, memory is the preservation of the right matter state across research, drafting, redlining, comparison, review, and reuse.
 
 The next draft didn't need a nicer summary.
 
