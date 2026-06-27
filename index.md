@@ -18,6 +18,10 @@ Legal AI has to become usable work product inside real matters. These essays loo
 - [Matter Memory Must Preserve Contradictions](articles/matter-memory-preserve-contradictions.html)
 - [Rerunning Is Not Repair In Legal AI](articles/rerunning-is-not-repair.html)
 
+## Deep Dives
+
+- [How to Train Graph Neural Networks — From First Principles to Planet Scale](articles/how-to-train-gnns.html)
+
 ## About Irys
 
 Irys is where we build against the same question: can AI carry legal work forward without forcing the team to reconstruct context every time?
