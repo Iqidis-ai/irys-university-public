@@ -32,6 +32,7 @@ Irys is where we build against this thesis: legal AI cannot stop at generating t
 - [A Citation Is Not An Audit Trail](articles/citations-are-not-audit-trails.html)
 - [Matter Memory Must Preserve Contradictions](articles/matter-memory-preserve-contradictions.html)
 - [Rerunning Is Not Repair In Legal AI](articles/rerunning-is-not-repair.html)
+- [What AlphaEvolve Teaches Legal AI About Evaluated Work](articles/what-alphaevolve-teaches-legal-ai.html)
 
 ## Links
 

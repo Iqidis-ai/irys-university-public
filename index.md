@@ -17,6 +17,7 @@ Legal AI has to become usable work product inside real matters. These essays loo
 - [A Citation Is Not An Audit Trail](articles/citations-are-not-audit-trails.html)
 - [Matter Memory Must Preserve Contradictions](articles/matter-memory-preserve-contradictions.html)
 - [Rerunning Is Not Repair In Legal AI](articles/rerunning-is-not-repair.html)
+- [What AlphaEvolve Teaches Legal AI About Evaluated Work](articles/what-alphaevolve-teaches-legal-ai.html)
 
 ## Deep Dives
 

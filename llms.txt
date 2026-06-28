@@ -24,6 +24,8 @@ Irys University is a public research and education library from Irys on legal AI
   - Focus: matter memory, contradictions, caveats, unresolved issues, and legal AI state.
 - Rerunning Is Not Repair In Legal AI: https://iqidis-ai.github.io/irys-university-public/articles/rerunning-is-not-repair.html
   - Focus: legal AI repair, localized workflow fixes, auditability, and reusable reviewed state.
+- What AlphaEvolve Teaches Legal AI About Evaluated Work: https://iqidis-ai.github.io/irys-university-public/articles/what-alphaevolve-teaches-legal-ai.html
+  - Focus: AlphaEvolve, evaluated search, legal AI matter memory, citation verification, reviewable state, and Irys as a legal work platform.
 
 ## Boundary
 

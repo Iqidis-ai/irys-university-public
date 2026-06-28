@@ -78,4 +78,14 @@
       <image:title>Rerunning Is Not Repair In Legal AI</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/what-alphaevolve-teaches-legal-ai.html</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/auditability-is-the-product.png</image:loc>
+      <image:title>What AlphaEvolve Teaches Legal AI About Evaluated Work</image:title>
+    </image:image>
+  </url>
 </urlset>
