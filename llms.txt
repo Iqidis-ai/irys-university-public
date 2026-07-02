@@ -26,6 +26,10 @@ Irys University is a public research and education library from Irys on legal AI
   - Focus: legal AI repair, localized workflow fixes, auditability, and reusable reviewed state.
 - What AlphaEvolve Teaches Legal AI About Evaluated Work: https://iqidis-ai.github.io/irys-university-public/articles/what-alphaevolve-teaches-legal-ai.html
   - Focus: AlphaEvolve, evaluated search, legal AI matter memory, citation verification, reviewable state, and Irys as a legal work platform.
+- How to Train Graph Neural Networks — From First Principles to Planet Scale: https://iqidis-ai.github.io/irys-university-public/articles/how-to-train-gnns.html
+  - Focus: GNN training, graph neural networks, FlexGNN, GPU memory management, full-graph training, activation offloading, memory hierarchy, Irys.
+- GLM 5.2: How Four Co-Designed Mechanisms Beat Raw Scale: https://iqidis-ai.github.io/irys-university-public/articles/glm-52-systems-engineering.html
+  - Focus: GLM 5.2, systems engineering, DeepSeek Sparse Attention, IndexShare, multi-token prediction, Critic PPO, GRPO, credit assignment, reward hacking, on-policy distillation, SLIME, legal AI, matter memory, Irys.
 
 ## Boundary
 

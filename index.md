@@ -20,6 +20,7 @@ Legal AI has to become usable work product inside real matters. These essays loo
 
 ## Deep Dives
 
+- [GLM 5.2: How Four Co-Designed Mechanisms Beat Raw Scale](articles/glm-52-systems-engineering.html)
 - [What AlphaEvolve Teaches Legal AI About Evaluated Work](articles/what-alphaevolve-teaches-legal-ai.html)
 - [How to Train Graph Neural Networks — From First Principles to Planet Scale](articles/how-to-train-gnns.html)
 

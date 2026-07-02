@@ -88,4 +88,24 @@
       <image:title>What AlphaEvolve Teaches Legal AI About Evaluated Work</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/how-to-train-gnns.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/how-to-train-gnns.png</image:loc>
+      <image:title>How to Train Graph Neural Networks — From First Principles to Planet Scale</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/glm-52-systems-engineering.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/glm-52-systems-engineering.png</image:loc>
+      <image:title>GLM 5.2: How Four Co-Designed Mechanisms Beat Raw Scale</image:title>
+    </image:image>
+  </url>
 </urlset>
