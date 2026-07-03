@@ -7,6 +7,9 @@ permalink: /articles/citations-are-not-audit-trails.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Audit Trails"
+nav_order: 5
+section: start
 ---
 
 # A Citation Is Not An Audit Trail

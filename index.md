@@ -10,19 +10,15 @@ Legal AI has to become usable work product inside real matters. These essays loo
 
 ## Start Reading
 
-- [Why Prompt-As-Memory Fails](articles/why-prompt-as-memory-fails.html)
-- [Auditability Is The Product](articles/auditability-is-the-product.html)
-- [Prompt Instructions Are Not Control](articles/prompt-instructions-are-not-control.html)
-- [The Exception Leak In Legal AI](articles/legal-ai-exception-leak.html)
-- [A Citation Is Not An Audit Trail](articles/citations-are-not-audit-trails.html)
-- [Matter Memory Must Preserve Contradictions](articles/matter-memory-preserve-contradictions.html)
-- [Rerunning Is Not Repair In Legal AI](articles/rerunning-is-not-repair.html)
+{% assign start_articles = site.pages | where: "type", "article" | where: "section", "start" | sort: "nav_order" %}{% for article in start_articles %}
+- [{{ article.title }}]({{ article.permalink | remove_first: "/" }})
+{%- endfor %}
 
 ## Deep Dives
 
-- [GLM 5.2: How Four Co-Designed Mechanisms Beat Raw Scale](articles/glm-52-systems-engineering.html)
-- [What AlphaEvolve Teaches Legal AI About Evaluated Work](articles/what-alphaevolve-teaches-legal-ai.html)
-- [How to Train Graph Neural Networks — From First Principles to Planet Scale](articles/how-to-train-gnns.html)
+{% assign deep_articles = site.pages | where: "type", "article" | where: "section", "deep-dive" | sort: "nav_order" %}{% for article in deep_articles %}
+- [{{ article.title }}]({{ article.permalink | remove_first: "/" }})
+{%- endfor %}
 
 ## About Irys
 

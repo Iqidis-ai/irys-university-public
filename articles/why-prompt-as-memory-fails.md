@@ -7,6 +7,9 @@ permalink: /articles/why-prompt-as-memory-fails.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Matter Memory"
+nav_order: 1
+section: start
 ---
 
 # Why Prompt-As-Memory Fails In Legal AI

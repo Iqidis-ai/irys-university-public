@@ -7,6 +7,9 @@ permalink: /articles/how-to-train-gnns.html
 date: 2026-06-26
 last_modified_at: 2026-06-26
 type: article
+nav_title: "GNN Training"
+nav_order: 9
+section: deep-dive
 ---
 
 # How to Train Graph Neural Networks — From First Principles to Planet Scale

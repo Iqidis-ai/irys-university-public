@@ -7,6 +7,9 @@ permalink: /articles/what-alphaevolve-teaches-legal-ai.html
 date: 2026-06-28
 last_modified_at: 2026-06-28
 type: article
+nav_title: "AlphaEvolve"
+nav_order: 8
+section: deep-dive
 ---
 
 # What AlphaEvolve Teaches Legal AI About Evaluated Work

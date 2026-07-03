@@ -7,6 +7,9 @@ permalink: /articles/rerunning-is-not-repair.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Repair"
+nav_order: 7
+section: start
 ---
 
 # Rerunning Is Not Repair In Legal AI

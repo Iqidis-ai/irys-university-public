@@ -7,6 +7,9 @@ permalink: /articles/matter-memory-preserve-contradictions.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Contradictions"
+nav_order: 6
+section: start
 ---
 
 # Matter Memory Must Preserve Contradictions

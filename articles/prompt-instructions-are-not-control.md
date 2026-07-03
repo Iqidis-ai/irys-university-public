@@ -7,6 +7,9 @@ permalink: /articles/prompt-instructions-are-not-control.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Controls"
+nav_order: 3
+section: start
 ---
 
 # Prompt Instructions Are Not Control In Legal AI

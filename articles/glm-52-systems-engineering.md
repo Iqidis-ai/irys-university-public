@@ -7,6 +7,9 @@ permalink: /articles/glm-52-systems-engineering.html
 date: 2026-07-02
 last_modified_at: 2026-07-02
 type: article
+nav_title: "GLM 5.2"
+nav_order: 10
+section: deep-dive
 ---
 
 # GLM 5.2: How Four Co-Designed Mechanisms Beat Raw Scale

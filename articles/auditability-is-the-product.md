@@ -7,6 +7,9 @@ permalink: /articles/auditability-is-the-product.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Auditability"
+nav_order: 2
+section: start
 ---
 
 # Auditability Is The Product In Legal AI

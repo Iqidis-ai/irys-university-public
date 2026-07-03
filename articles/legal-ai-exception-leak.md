@@ -7,6 +7,9 @@ permalink: /articles/legal-ai-exception-leak.html
 date: 2026-06-24
 last_modified_at: 2026-06-24
 type: article
+nav_title: "Exception Leak"
+nav_order: 4
+section: start
 ---
 
 # The Exception Leak In Legal AI
