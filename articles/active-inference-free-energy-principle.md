@@ -238,4 +238,4 @@ The future is not bigger models. It is smarter coordination over structured, per
 
 *Try Irys AI → [irys.ai](https://irys.ai) | Irys Swarm API → [irys.ai/irys-api](https://irys.ai/irys-api)*
 
-*Published by [Irys AI](https://irys.ai) — planned intelligence for legal work.*
+*Published by [Irys AI](https://irys.ai) — trusted long-context reasoning infrastructure.*
