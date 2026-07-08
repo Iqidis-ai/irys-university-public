@@ -8,7 +8,7 @@ date: 2026-07-08
 last_modified_at: 2026-07-08
 type: article
 nav_title: "Active Inference"
-nav_order: 10
+nav_order: 11
 section: deep-dive
 ---
 
