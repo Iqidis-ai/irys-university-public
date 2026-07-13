@@ -108,4 +108,24 @@
       <image:title>GLM 5.2: How Four Co-Designed Mechanisms Beat Raw Scale</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/active-inference-free-energy-principle.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/active-inference-free-energy-principle.png</image:loc>
+      <image:title>Active Inference and The Free Energy Principle — From First Principles to Working Systems</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://iqidis-ai.github.io/irys-university-public/articles/reinforcement-learning-is-the-wrong-bet.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://iqidis-ai.github.io/irys-university-public/images/reinforcement-learning-is-the-wrong-bet.png</image:loc>
+      <image:title>Reinforcement Learning Is the Wrong Bet — Four Structural Failures and What Works Instead</image:title>
+    </image:image>
+  </url>
 </urlset>
