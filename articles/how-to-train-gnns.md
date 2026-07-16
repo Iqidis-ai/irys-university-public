@@ -18,7 +18,7 @@ A 3-layer GNN training on 111 million nodes produces 336 gigabytes of intermedia
 
 That crash is not a hardware problem. It is a planning problem.
 
-This article is a companion to the Irys University video of the same name. It covers the same ground in written form: why graphs are the right representation for many real-world problems, how GNNs learn from graph structure, why full-graph training is essential for correctness, and how FlexGNN solved the memory wall by reframing GPU capacity from a hard limit into an optimization variable.
+This article is a companion to the Irys University video of the same name. It derives primarily from the [FlexGNN paper](https://dl.acm.org/doi/10.1145/3711896.3736964) (ACM KDD 2025): "FlexGNN: A High-Performance, Large-Scale Full-Graph GNN System with Best-Effort Training Plan Optimization." It covers the same ground in written form: why graphs are the right representation for many real-world problems, how GNNs learn from graph structure, why full-graph training is essential for correctness, and how FlexGNN solved the memory wall by reframing GPU capacity from a hard limit into an optimization variable.
 
 ## Part I: Why Graphs Matter
 

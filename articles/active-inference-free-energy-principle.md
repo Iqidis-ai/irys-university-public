@@ -14,11 +14,11 @@ section: deep-dive
 
 # Active Inference & The Free Energy Principle — From First Principles to Working Systems
 
-A 1.6-million-parameter system beats models with 400 times more parameters. VERSES Genius solves code-breaking challenges 140 times faster and 5,260 times cheaper than frontier AI models. Against DeepSeek R1, Genius achieves 100 percent where DeepSeek manages 45 percent — while running 300 times faster and 800 times cheaper.
+A 1.6-million-parameter system beats models with 400 times more parameters on the Gameworld 10k benchmark. On the Mastermind code-breaking challenge, VERSES reports that its Genius system solved all 100 games — 140 times faster and 5,260 times cheaper than OpenAI's o1-preview — while DeepSeek R1 achieved a 45 percent success rate on the same task.
 
-Those numbers should not be possible. The explanation is not a trick or a narrow benchmark optimization. It is a structural difference in how intelligence is built.
+Those numbers, if they hold up to independent replication, point to something deeper than a benchmark trick. They suggest a structural difference in how intelligence is built.
 
-This article derives Active Inference and the Free Energy Principle from first principles, then walks through AXIOM — the four-module cognitive architecture that achieves these results. No hand-waving. Full math. Working systems.
+This article derives Active Inference and the Free Energy Principle from first principles, then walks through AXIOM — the four-module cognitive architecture behind these results. The technical details are drawn from the [AXIOM paper](https://arxiv.org/abs/2505.24784) (arXiv:2505.24784) and [VERSES AI's published benchmarks](https://www.verses.ai/blog/genius-outperforms-openai-model-in-code-breaking-challenge-mastermind). No hand-waving. Full math. Working systems.
 
 ## Part I: The Crisis of Scale
 
@@ -168,17 +168,17 @@ AXIOM's most striking property is that it structures itself.
 
 **Model Predictive Control with CEM.** AXIOM plans by sampling 64 action sequences, scoring each through its world model using Expected Free Energy, keeping the top 10%, refitting the distribution, and repeating. But it executes only the first action, observes the result, and replans. Plan a trajectory. Execute one step. Observe. Replan.
 
-## Part V: The Proof
+## Part V: Benchmark Evidence
 
 ### Gameworld 10k Benchmark
 
-AXIOM was tested on the Gameworld 10k benchmark — ten Atari-style game environments with a strict data budget of 10,000 interaction frames (about 5.5 minutes of gameplay).
+AXIOM was tested on the [Gameworld 10k benchmark](https://arxiv.org/abs/2505.24784) — ten Atari-style game environments with a strict data budget of 10,000 interaction frames (about 5.5 minutes of gameplay).
 
-Key results:
+Key results from the paper:
 
 - **Parameter efficiency.** 0.3 to 1.6 million parameters vs hundreds of millions for deep RL baselines. Approximately 400:1 ratio.
 - **Sample efficiency.** 10,000 frames to competent play. Deep RL: 1,000,000+. A 100-1000x gap.
-- **Mastermind code-breaking.** VERSES Genius (same architectural family) achieves 100% success rate where DeepSeek R1 achieves 45%. 140x faster than o1-preview. 5,260x cheaper.
+- **Mastermind code-breaking.** In a [separate benchmark](https://www.verses.ai/blog/genius-outperforms-openai-model-in-code-breaking-challenge-mastermind), VERSES reports that Genius (same architectural family) achieved a 100% success rate across 100 games, compared to 71% for OpenAI's o1-preview — 140x faster and 5,260x cheaper. These are vendor-reported numbers on a narrow task; independent replication would strengthen the claim.
 
 ### Perturbation Experiments
 
@@ -196,13 +196,13 @@ AXIOM runs in real time on a single GPU. For deployment, the target is edge hard
 
 ### The Convergent Pattern
 
-Two systems from completely different domains arrived at the same structural insight independently.
+AXIOM and the Irys Swarm API operate in different domains, but share structural patterns worth examining. The parallels are instructive, not proof of convergence — the domains impose different constraints and the mechanisms solve different problems at different layers.
 
 AXIOM, in the domain of game-playing AI: decompose perception into object-centric Gaussians, coordinate through a shared generative model, grow where prediction error is high, compress where redundancy exists.
 
 The Irys Swarm API, in the domain of document analysis: decompose extraction into typed observations, coordinate through a shared blackboard, dispatch follow-up workers where uncertainty is high, stop iterating when coverage is complete.
 
-The correspondence is specific and structural:
+The structural parallels:
 
 | AXIOM | Irys Swarm API |
 |-------|---------------|
@@ -228,7 +228,7 @@ The two are not mutually exclusive. But structure sits on top.
 
 The open questions are genuine. Can Active Inference scale to continuous real-world environments with high-dimensional state spaces? Can the Irys Swarm API maintain its cost advantage on tens of thousands of pages? Can either system handle complex multi-step reasoning beyond current benchmarks?
 
-What is not open is the direction. Two independent systems from different fields, built by different teams, using different tools, arrived at the same pattern. Decompose. Specialize. Share state. Iterate. Grow where uncertain. Compress where redundant. Audit by construction.
+What is not open is the direction. Both systems, built for different domains, arrived at a common set of design choices: decompose, specialize, share state, iterate, grow where uncertain, compress where redundant, audit by construction. Whether this reflects a deep principle or parallel engineering intuition is an open question — but the pattern is worth taking seriously.
 
 The future is not bigger models. It is smarter coordination over structured, persistent, auditable state.
 

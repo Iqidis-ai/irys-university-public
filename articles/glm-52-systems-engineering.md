@@ -16,7 +16,7 @@ section: deep-dive
 
 GLM 5.2 matches frontier-class performance at roughly one-sixth the per-token cost. Not by scaling parameters. By engineering four mechanisms that feed each other across the entire training-to-serving pipeline.
 
-This article is a companion to the Irys University video of the same name. It covers the same ground in written form: the three compounding bottlenecks that define the cost of running AI at production scale, the four co-designed mechanisms that break those bottlenecks, and why the same engineering principles determine whether legal AI can become real work product or remains an expensive demo.
+This article is a companion to the Irys University video of the same name. It derives from [Zhipu AI's GLM-5.2 announcement and technical details](https://huggingface.co/blog/zai-org/glm-52-blog) ([model weights](https://huggingface.co/zai-org/GLM-5.2), [code](https://github.com/zai-org/GLM-5)). It covers the same ground in written form: the three compounding bottlenecks that define the cost of running AI at production scale, the four co-designed mechanisms that break those bottlenecks, and why the same engineering principles determine whether legal AI can become real work product or remains an expensive demo.
 
 ## Part I: The Triple Cost Wall
 
@@ -139,7 +139,7 @@ It has four significant failure modes on long-horizon agent work.
 
 **Compaction misalignment.** In production, agents work on compacted context — prior turns summarized, redundant information removed. Different trajectories compact at different points, producing different-shaped inputs. GRPO's trajectory-level comparison assumes uniform inputs. When the inputs differ, the comparison is meaningless.
 
-**Uniform credit dilution.** Every token in a passing trajectory receives the same advantage signal. In a 50,000-token trajectory, 95,000 tokens are routine (imports, boilerplate, standard formatting). 4,000 are structurally important. 900 contribute to synthesis. And 5 tokens constitute the critical decision — the fraud carve-out, the exception clause, the controlling distinction.
+**Uniform credit dilution.** Every token in a passing trajectory receives the same advantage signal. In a 50,000-token trajectory, the vast majority of tokens are routine (imports, boilerplate, standard formatting). A few thousand are structurally important. A few hundred contribute to synthesis. And a handful of tokens constitute the critical decision — the exception clause, the controlling distinction, the qualifying language that changes the meaning of an entire provision.
 
 GRPO gives all of them +1.73. The signal-to-noise ratio at the critical tokens is 0.002 percent.
 
